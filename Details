@@ -1,7 +1,7 @@
 Topics:
 
 
-  Semantics:
+  Semantics: ( special meaning for a tag with relevant usage )
     article --> independent content may be irrelevant from the website
     section --> Collection of content separated
     header --> Header content of the page
@@ -17,17 +17,18 @@ Topics:
   thead -> table heading
   tr -> table row
   th -> cell heading
-  td -> cell data, align attr, colspan, rowspan
+  td -> cell data, style: text-align, colspan, rowspan
 
-  forms:
+  forms: ( used to get inputs ( depends on the context ) from user )
     input element, label
+    using value attribute default values are specified
     form submit
 
   canvas --> specific canvas which control of each each pixels
 
   basic styling, CSS ---> Cascading Style Sheet --> beautification, cosmetic of webpage
     styling possible only under certain keys with certain values
-      key: value ( set keys already defined for css with certains values )
+      key: value ( set of keys already defined for css with certains values )
     property & value eg: color: red; --> color -> prop red -> value
   
   ways to use css
